@@ -2,7 +2,6 @@
 I'm an AWS engineer who builds and owns systems end to end — from the first line of infrastructure to the moment something ships to users.<br>I think in terms of systems, not just services. Getting the architecture right matters to me, but so does making sure it stays maintainable, secure, and honest about its costs. Cloud infrastructure is easy to bloat; I find more satisfaction in building things that are lean and deliberate.
 
 * Visit my [portfolio](https://rsarkhel.com)
-* You can contact me here : sarkhelranit2001@gmail.com 
 
 
 ## 🌐 Socials:
